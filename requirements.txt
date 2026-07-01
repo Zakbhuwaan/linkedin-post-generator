@@ -1,6 +1,5 @@
-streamlit
-langchain
-langchain-groq
-langchain-core
-python-dotenv
+streamlit>=1.40.0
+langchain-core==0.3.63
+langchain-groq==0.3.2
+python-dotenv>=1.0.0
 pandas==2.2.3
