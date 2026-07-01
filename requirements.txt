@@ -3,4 +3,4 @@ langchain
 langchain-groq
 langchain-core
 python-dotenv
-pandas
+pandas==2.2.3
